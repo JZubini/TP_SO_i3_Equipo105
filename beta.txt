@@ -28,3 +28,32 @@ Adaptador de Ethernet Hamachi:
    
    
    22:26hs
+
+Aquino Agustin
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.43
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::a142:46c:cd04:837b%10
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2001:0:2877:7aa:86a:4bff:4ad1:7638
+   Vínculo: dirección IPv6 local. . . : fe80::86a:4bff:4ad1:7638%11
+   Puerta de enlace predeterminada . . . . . : ::
+
+22:47
