@@ -1,3 +1,4 @@
+  Responde BETA:
 A-¿Como queda El master después de estos cambios?
   CPUAlfa.txt
   CPUBeta.txt
@@ -14,4 +15,13 @@ C-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
 
   1 - Verificar cual es la branch por default con "git checkout master"
   2 - Por último desde el repo local mande un "git merge aquino" 
+  
+  
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
   
