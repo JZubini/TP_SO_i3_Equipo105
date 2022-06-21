@@ -57,3 +57,30 @@ Adaptador de túnel Teredo Tunneling Pseudo-Interface:
    Puerta de enlace predeterminada . . . . . : ::
 
 22:47
+
+Berasain Agustin 
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:810:484:6ea::1002
+   Dirección IPv6 . . . . . . . . . . : 2800:810:484:6ea:2d96:970c:8247:75e5
+   Dirección IPv6 temporal. . . . . . : 2800:810:484:6ea:30e5:bf7:b025:5f6
+   Vínculo: dirección IPv6 local. . . : fe80::2d96:970c:8247:75e5%5
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.67
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::5a90:43ff:fe5b:fc21%5
+                                       192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::113b:2286:12bf:3417%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+20:07 hs
