@@ -14,7 +14,8 @@ B-¿Beta pudo ver todos los cambios que se realizaron?
 C-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
 
   1 - Verificar cual es la branch por default con "git checkout master"
-  2 - Por último desde el repo local mande un "git merge aquino" 
+  2 - Desde el repo local mande un "git merge aquino" 
+  3 - Por último hice un "git push" para subir los cambios.
   
   
 
