@@ -24,6 +24,24 @@ d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
 
+
+d)
+Quedo actualizado, despues de subir los cambios
+
+e)
+Al principio no se podia hacer el merge. Despues de varios intentos, lo que era necesario era hacer un "git pull"
+
+f)
+Los pasos que se hicieron para este punto fueron:
+1. git pull
+2. git checkout  aquino
+3. git branch
+4. git add .
+5. git commit -m "Gamma cambios"
+6. git push
+
+
+
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
   
@@ -32,3 +50,6 @@ $ git status
 $ git add -A
 $ git commit -m "Punto 8"
 $ git push
+
+
+
